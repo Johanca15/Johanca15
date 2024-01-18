@@ -7,5 +7,4 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
 - 📲 Estudiante de Analitica y Ciencia de Datos
