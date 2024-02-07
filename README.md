@@ -7,4 +7,4 @@
 
 ## Sobre mi
 
-- 📲 Estudiante de Analitica y Ciencia de Datos
+- 📲 Estudiante de termino en Analitica y Ciencia de Datos
